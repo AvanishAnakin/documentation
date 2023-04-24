@@ -4,7 +4,7 @@ with open("README.md", "r") as file:
     long_description = file.read()
 
 setup(
-    name="aloo",                            # This is the name of the package
+    name="classgen",                            # This is the name of the package
     version="0.0.8",                            # The initial release version
     author="Avanish Gupta",                     # Full name of the author
     description="Generate classes in Python using command line arguments",

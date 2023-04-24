@@ -64,3 +64,5 @@ Initializes the class generator.
             <ClassGenerator at 0x107352eb0>
         '''
 ```
+
+- Single Command build: `clear && sphinx-apidoc -f -o source/ ../classgen/ && make html`

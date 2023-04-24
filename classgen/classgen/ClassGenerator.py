@@ -8,6 +8,12 @@ from dataclasses import dataclass
 class ClassGenerator():
     '''
     This class is used to generate a class file.
+
+    Sample Image
+
+    .. image:: ../../images/1.png
+        :width: 1000
+        :alt: Alternative text
     '''
 
     name: str
