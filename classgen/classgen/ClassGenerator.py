@@ -11,7 +11,7 @@ class ClassGenerator():
 
     Sample Image
 
-    .. image:: ../../images/1.png
+    .. image:: ../../media/images/1.png
         :width: 1000
         :alt: Alternative text
     '''
